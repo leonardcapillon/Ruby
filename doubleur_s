@@ -1,4 +1,4 @@
-Programme qui doubleur de s :
+Programme doubleur de s :
 
 print "Saisissez du text : "
 saisie = gets.chomp
