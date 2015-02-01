@@ -1,0 +1,18 @@
+If Elsif Else :
+if 170>180
+  puts "Bravo, tu es grand !"
+elsif 170<180
+  puts "Tu es plus petit que quelqu'un d'1m80"
+else
+  puts "Tu es de la même taille que quelqu'un d'1m80"
+end
+
+
+Unless (encore Codecademy....) :
+faim = true
+
+unless faim
+  puts "Je programme en Ruby !"
+else
+  puts "A table !"
+end
